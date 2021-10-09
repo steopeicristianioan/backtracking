@@ -140,6 +140,33 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="bkt.cpp" />
+    <ClCompile Include="Intervale.cpp" />
+    <ClCompile Include="Note_muzicale.cpp" />
+    <ClCompile Include="Pb1.cpp" />
+    <ClCompile Include="Pb2.cpp" />
+    <ClCompile Include="Pb3.cpp" />
+    <ClCompile Include="Pb4.cpp" />
+    <ClCompile Include="Pb5.cpp" />
+    <ClCompile Include="Pb6.cpp" />
+    <ClCompile Include="Pb7.cpp" />
+    <ClCompile Include="Sesiune.cpp" />
+    <ClCompile Include="Subsir.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Intervale.h" />
+    <ClInclude Include="Note_muzicale.h" />
+    <ClInclude Include="pb1.h" />
+    <ClInclude Include="Pb2.h" />
+    <ClInclude Include="Pb3.h" />
+    <ClInclude Include="Pb4.h" />
+    <ClInclude Include="Pb5.h" />
+    <ClInclude Include="Pb6.h" />
+    <ClInclude Include="Pb7.h" />
+    <ClInclude Include="Sesiune.h" />
+    <ClInclude Include="Subsir.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="fin.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

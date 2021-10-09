@@ -18,5 +18,78 @@
     <ClCompile Include="bkt.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Pb1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_muzicale.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Intervale.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sesiune.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Subsir.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pb2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pb3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pb4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pb5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pb6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pb7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="fin.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pb1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Note_muzicale.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Intervale.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sesiune.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Subsir.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pb2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pb3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pb4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pb5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pb6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pb7.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
