@@ -143,12 +143,19 @@
     <ClCompile Include="Intervale.cpp" />
     <ClCompile Include="Note_muzicale.cpp" />
     <ClCompile Include="Pb1.cpp" />
+    <ClCompile Include="Pb10.cpp" />
+    <ClCompile Include="Pb11.cpp" />
+    <ClCompile Include="Pb12.cpp" />
+    <ClCompile Include="Pb13.cpp" />
+    <ClCompile Include="Pb14.cpp" />
     <ClCompile Include="Pb2.cpp" />
     <ClCompile Include="Pb3.cpp" />
     <ClCompile Include="Pb4.cpp" />
     <ClCompile Include="Pb5.cpp" />
     <ClCompile Include="Pb6.cpp" />
     <ClCompile Include="Pb7.cpp" />
+    <ClCompile Include="Pb8.cpp" />
+    <ClCompile Include="Pb9.cpp" />
     <ClCompile Include="Sesiune.cpp" />
     <ClCompile Include="Subsir.cpp" />
   </ItemGroup>
@@ -156,12 +163,19 @@
     <ClInclude Include="Intervale.h" />
     <ClInclude Include="Note_muzicale.h" />
     <ClInclude Include="pb1.h" />
+    <ClInclude Include="Pb10.h" />
+    <ClInclude Include="Pb11.h" />
+    <ClInclude Include="Pb12.h" />
+    <ClInclude Include="Pb13.h" />
+    <ClInclude Include="Pb14.h" />
     <ClInclude Include="Pb2.h" />
     <ClInclude Include="Pb3.h" />
     <ClInclude Include="Pb4.h" />
     <ClInclude Include="Pb5.h" />
     <ClInclude Include="Pb6.h" />
     <ClInclude Include="Pb7.h" />
+    <ClInclude Include="Pb8.h" />
+    <ClInclude Include="Pb9.h" />
     <ClInclude Include="Sesiune.h" />
     <ClInclude Include="Subsir.h" />
   </ItemGroup>

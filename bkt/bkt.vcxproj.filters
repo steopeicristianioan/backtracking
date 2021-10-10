@@ -51,6 +51,27 @@
     <ClCompile Include="Pb7.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Pb8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pb9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pb10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pb11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pb12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pb13.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pb14.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="fin.txt">
@@ -89,6 +110,27 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Pb7.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pb8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pb9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pb10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pb11.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pb12.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pb13.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pb14.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
