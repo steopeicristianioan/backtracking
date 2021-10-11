@@ -16,9 +16,14 @@
 #include "Pb12.h"
 #include "Pb13.h"
 #include "Pb14.h"
+#include "Pb16.h"
+#include "Pb17.h"
+#include "Pb18.h"
+#include "Pb19.h"
+#include "Pb20.h"
 
 int main()
 {
-	Pb13 pb;
+	Pb3 pb;
 	pb.solve();
 }
